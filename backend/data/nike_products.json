@@ -1,0 +1,1235 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air Zoom Pegasus 40",
+    "brand": "Nike",
+    "category": "Running Shoes",
+    "price": 9156,
+    "description": "Nike Air Zoom Pegasus 40 — premium Nike running shoes designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1606813909024-879b1e05b32e",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 87,
+    "rating": 4.6
+  },
+  {
+    "id": 2,
+    "name": "Nike React Infinity Run Flyknit",
+    "brand": "Nike",
+    "category": "Running Shoes",
+    "price": 7419,
+    "description": "Nike React Infinity Run Flyknit — premium Nike running shoes designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1606813909024-879b1e05b32e",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 97,
+    "rating": 4.0
+  },
+  {
+    "id": 3,
+    "name": "Nike React Infinity Run Flyknit",
+    "brand": "Nike",
+    "category": "Running Shoes",
+    "price": 9880,
+    "description": "Nike React Infinity Run Flyknit — premium Nike running shoes designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1606813909024-879b1e05b32e",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 82,
+    "rating": 3.5
+  },
+  {
+    "id": 4,
+    "name": "Nike ZoomX Invincible 3",
+    "brand": "Nike",
+    "category": "Running Shoes",
+    "price": 8267,
+    "description": "Nike ZoomX Invincible 3 — premium Nike running shoes designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1606813909024-879b1e05b32e",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 71,
+    "rating": 4.4
+  },
+  {
+    "id": 5,
+    "name": "Nike ZoomX Invincible 3",
+    "brand": "Nike",
+    "category": "Running Shoes",
+    "price": 6735,
+    "description": "Nike ZoomX Invincible 3 — premium Nike running shoes designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1606813909024-879b1e05b32e",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 23,
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Nike Air Max 270",
+    "brand": "Nike",
+    "category": "Running Shoes",
+    "price": 11373,
+    "description": "Nike Air Max 270 — premium Nike running shoes designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1606813909024-879b1e05b32e",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 72,
+    "rating": 4.9
+  },
+  {
+    "id": 7,
+    "name": "Nike Air Zoom Pegasus 40",
+    "brand": "Nike",
+    "category": "Running Shoes",
+    "price": 6199,
+    "description": "Nike Air Zoom Pegasus 40 — premium Nike running shoes designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1606813909024-879b1e05b32e",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 85,
+    "rating": 4.6
+  },
+  {
+    "id": 8,
+    "name": "Nike Air Zoom Pegasus 40",
+    "brand": "Nike",
+    "category": "Running Shoes",
+    "price": 8150,
+    "description": "Nike Air Zoom Pegasus 40 — premium Nike running shoes designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1606813909024-879b1e05b32e",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 60,
+    "rating": 5.0
+  },
+  {
+    "id": 9,
+    "name": "Nike React Infinity Run Flyknit",
+    "brand": "Nike",
+    "category": "Running Shoes",
+    "price": 9002,
+    "description": "Nike React Infinity Run Flyknit — premium Nike running shoes designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1606813909024-879b1e05b32e",
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "stock": 93,
+    "rating": 3.9
+  },
+  {
+    "id": 10,
+    "name": "Nike Pro Compression Tee",
+    "brand": "Nike",
+    "category": "T-Shirt",
+    "price": 9358,
+    "description": "Nike Pro Compression Tee — premium Nike t-shirt designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6b3df",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 47,
+    "rating": 4.2
+  },
+  {
+    "id": 11,
+    "name": "Nike Dri-FIT Training Tee",
+    "brand": "Nike",
+    "category": "T-Shirt",
+    "price": 14584,
+    "description": "Nike Dri-FIT Training Tee — premium Nike t-shirt designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6b3df",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 64,
+    "rating": 4.2
+  },
+  {
+    "id": 12,
+    "name": "Nike Sportswear Club Tee",
+    "brand": "Nike",
+    "category": "T-Shirt",
+    "price": 14854,
+    "description": "Nike Sportswear Club Tee — premium Nike t-shirt designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6b3df",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 92,
+    "rating": 4.3
+  },
+  {
+    "id": 13,
+    "name": "Nike Pro Compression Tee",
+    "brand": "Nike",
+    "category": "T-Shirt",
+    "price": 5018,
+    "description": "Nike Pro Compression Tee — premium Nike t-shirt designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6b3df",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 56,
+    "rating": 4.1
+  },
+  {
+    "id": 14,
+    "name": "Nike Dri-FIT Training Tee",
+    "brand": "Nike",
+    "category": "T-Shirt",
+    "price": 13976,
+    "description": "Nike Dri-FIT Training Tee — premium Nike t-shirt designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6b3df",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 18,
+    "rating": 4.5
+  },
+  {
+    "id": 15,
+    "name": "Nike Heritage Graphic Tee",
+    "brand": "Nike",
+    "category": "T-Shirt",
+    "price": 3453,
+    "description": "Nike Heritage Graphic Tee — premium Nike t-shirt designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6b3df",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 84,
+    "rating": 4.3
+  },
+  {
+    "id": 16,
+    "name": "Nike Heritage Graphic Tee",
+    "brand": "Nike",
+    "category": "T-Shirt",
+    "price": 5453,
+    "description": "Nike Heritage Graphic Tee — premium Nike t-shirt designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6b3df",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 59,
+    "rating": 4.9
+  },
+  {
+    "id": 17,
+    "name": "Nike Pro Compression Tee",
+    "brand": "Nike",
+    "category": "T-Shirt",
+    "price": 5752,
+    "description": "Nike Pro Compression Tee — premium Nike t-shirt designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6b3df",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 14,
+    "rating": 4.9
+  },
+  {
+    "id": 18,
+    "name": "Nike Dri-FIT Training Tee",
+    "brand": "Nike",
+    "category": "T-Shirt",
+    "price": 10983,
+    "description": "Nike Dri-FIT Training Tee — premium Nike t-shirt designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1620799140408-edc6dcb6b3df",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 97,
+    "rating": 4.2
+  },
+  {
+    "id": 19,
+    "name": "Nike Tech Fleece Hoodie",
+    "brand": "Nike",
+    "category": "Hoodie",
+    "price": 2149,
+    "description": "Nike Tech Fleece Hoodie — premium Nike hoodie designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3f3f",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 69,
+    "rating": 4.8
+  },
+  {
+    "id": 20,
+    "name": "Nike Tech Fleece Hoodie",
+    "brand": "Nike",
+    "category": "Hoodie",
+    "price": 8935,
+    "description": "Nike Tech Fleece Hoodie — premium Nike hoodie designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3f3f",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 66,
+    "rating": 3.5
+  },
+  {
+    "id": 21,
+    "name": "Nike Club Pullover Hoodie",
+    "brand": "Nike",
+    "category": "Hoodie",
+    "price": 9736,
+    "description": "Nike Club Pullover Hoodie — premium Nike hoodie designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3f3f",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 27,
+    "rating": 3.6
+  },
+  {
+    "id": 22,
+    "name": "Nike Therma Training Hoodie",
+    "brand": "Nike",
+    "category": "Hoodie",
+    "price": 12949,
+    "description": "Nike Therma Training Hoodie — premium Nike hoodie designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3f3f",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 51,
+    "rating": 4.9
+  },
+  {
+    "id": 23,
+    "name": "Nike Tech Fleece Hoodie",
+    "brand": "Nike",
+    "category": "Hoodie",
+    "price": 5934,
+    "description": "Nike Tech Fleece Hoodie — premium Nike hoodie designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3f3f",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 29,
+    "rating": 5.0
+  },
+  {
+    "id": 24,
+    "name": "Nike Club Pullover Hoodie",
+    "brand": "Nike",
+    "category": "Hoodie",
+    "price": 6495,
+    "description": "Nike Club Pullover Hoodie — premium Nike hoodie designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3f3f",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 95,
+    "rating": 4.4
+  },
+  {
+    "id": 25,
+    "name": "Nike Therma Training Hoodie",
+    "brand": "Nike",
+    "category": "Hoodie",
+    "price": 3553,
+    "description": "Nike Therma Training Hoodie — premium Nike hoodie designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3f3f",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 55,
+    "rating": 3.6
+  },
+  {
+    "id": 26,
+    "name": "Nike Club Pullover Hoodie",
+    "brand": "Nike",
+    "category": "Hoodie",
+    "price": 6472,
+    "description": "Nike Club Pullover Hoodie — premium Nike hoodie designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3f3f",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 55,
+    "rating": 4.3
+  },
+  {
+    "id": 27,
+    "name": "Nike Club Pullover Hoodie",
+    "brand": "Nike",
+    "category": "Hoodie",
+    "price": 12732,
+    "description": "Nike Club Pullover Hoodie — premium Nike hoodie designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3f3f",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 31,
+    "rating": 3.7
+  },
+  {
+    "id": 28,
+    "name": "Nike Dri-FIT Tapered Pants",
+    "brand": "Nike",
+    "category": "Joggers",
+    "price": 12166,
+    "description": "Nike Dri-FIT Tapered Pants — premium Nike joggers designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c9a8218e",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 76,
+    "rating": 4.2
+  },
+  {
+    "id": 29,
+    "name": "Nike Sportswear Club Joggers",
+    "brand": "Nike",
+    "category": "Joggers",
+    "price": 11704,
+    "description": "Nike Sportswear Club Joggers — premium Nike joggers designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c9a8218e",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 27,
+    "rating": 4.7
+  },
+  {
+    "id": 30,
+    "name": "Nike Tech Fleece Pants",
+    "brand": "Nike",
+    "category": "Joggers",
+    "price": 6567,
+    "description": "Nike Tech Fleece Pants — premium Nike joggers designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c9a8218e",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 15,
+    "rating": 4.3
+  },
+  {
+    "id": 31,
+    "name": "Nike Sportswear Club Joggers",
+    "brand": "Nike",
+    "category": "Joggers",
+    "price": 6293,
+    "description": "Nike Sportswear Club Joggers — premium Nike joggers designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c9a8218e",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 52,
+    "rating": 3.7
+  },
+  {
+    "id": 32,
+    "name": "Nike Tech Fleece Pants",
+    "brand": "Nike",
+    "category": "Joggers",
+    "price": 6593,
+    "description": "Nike Tech Fleece Pants — premium Nike joggers designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c9a8218e",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 69,
+    "rating": 4.7
+  },
+  {
+    "id": 33,
+    "name": "Nike Sportswear Club Joggers",
+    "brand": "Nike",
+    "category": "Joggers",
+    "price": 7628,
+    "description": "Nike Sportswear Club Joggers — premium Nike joggers designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c9a8218e",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 16,
+    "rating": 4.3
+  },
+  {
+    "id": 34,
+    "name": "Nike Tech Fleece Pants",
+    "brand": "Nike",
+    "category": "Joggers",
+    "price": 10281,
+    "description": "Nike Tech Fleece Pants — premium Nike joggers designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c9a8218e",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 95,
+    "rating": 4.7
+  },
+  {
+    "id": 35,
+    "name": "Nike Tech Fleece Pants",
+    "brand": "Nike",
+    "category": "Joggers",
+    "price": 5779,
+    "description": "Nike Tech Fleece Pants — premium Nike joggers designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c9a8218e",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 78,
+    "rating": 4.8
+  },
+  {
+    "id": 36,
+    "name": "Nike Tech Fleece Pants",
+    "brand": "Nike",
+    "category": "Joggers",
+    "price": 7499,
+    "description": "Nike Tech Fleece Pants — premium Nike joggers designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354691373-d851c9a8218e",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 14,
+    "rating": 4.6
+  },
+  {
+    "id": 37,
+    "name": "Nike Sportswear Trucker Cap",
+    "brand": "Nike",
+    "category": "Cap",
+    "price": 5173,
+    "description": "Nike Sportswear Trucker Cap — premium Nike cap designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354892310-d8b8e5b86b1d",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 17,
+    "rating": 3.8
+  },
+  {
+    "id": 38,
+    "name": "Nike Heritage 86 Cap",
+    "brand": "Nike",
+    "category": "Cap",
+    "price": 7053,
+    "description": "Nike Heritage 86 Cap — premium Nike cap designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354892310-d8b8e5b86b1d",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 94,
+    "rating": 4.4
+  },
+  {
+    "id": 39,
+    "name": "Nike Heritage 86 Cap",
+    "brand": "Nike",
+    "category": "Cap",
+    "price": 5452,
+    "description": "Nike Heritage 86 Cap — premium Nike cap designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354892310-d8b8e5b86b1d",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 20,
+    "rating": 4.6
+  },
+  {
+    "id": 40,
+    "name": "Nike Heritage 86 Cap",
+    "brand": "Nike",
+    "category": "Cap",
+    "price": 8144,
+    "description": "Nike Heritage 86 Cap — premium Nike cap designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354892310-d8b8e5b86b1d",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 38,
+    "rating": 3.9
+  },
+  {
+    "id": 41,
+    "name": "Nike Heritage 86 Cap",
+    "brand": "Nike",
+    "category": "Cap",
+    "price": 3999,
+    "description": "Nike Heritage 86 Cap — premium Nike cap designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354892310-d8b8e5b86b1d",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 37,
+    "rating": 4.4
+  },
+  {
+    "id": 42,
+    "name": "Nike Sportswear Trucker Cap",
+    "brand": "Nike",
+    "category": "Cap",
+    "price": 11644,
+    "description": "Nike Sportswear Trucker Cap — premium Nike cap designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354892310-d8b8e5b86b1d",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 57,
+    "rating": 4.2
+  },
+  {
+    "id": 43,
+    "name": "Nike Sportswear Trucker Cap",
+    "brand": "Nike",
+    "category": "Cap",
+    "price": 11854,
+    "description": "Nike Sportswear Trucker Cap — premium Nike cap designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354892310-d8b8e5b86b1d",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 23,
+    "rating": 4.1
+  },
+  {
+    "id": 44,
+    "name": "Nike AeroBill Running Cap",
+    "brand": "Nike",
+    "category": "Cap",
+    "price": 3600,
+    "description": "Nike AeroBill Running Cap — premium Nike cap designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354892310-d8b8e5b86b1d",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 17,
+    "rating": 4.3
+  },
+  {
+    "id": 45,
+    "name": "Nike AeroBill Running Cap",
+    "brand": "Nike",
+    "category": "Cap",
+    "price": 9677,
+    "description": "Nike AeroBill Running Cap — premium Nike cap designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354892310-d8b8e5b86b1d",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 74,
+    "rating": 3.7
+  },
+  {
+    "id": 46,
+    "name": "Nike Heritage Backpack",
+    "brand": "Nike",
+    "category": "Bag",
+    "price": 7147,
+    "description": "Nike Heritage Backpack — premium Nike bag designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1596464716121-2e6bb66a5cda",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 36,
+    "rating": 4.5
+  },
+  {
+    "id": 47,
+    "name": "Nike Gym Club Bag",
+    "brand": "Nike",
+    "category": "Bag",
+    "price": 9499,
+    "description": "Nike Gym Club Bag — premium Nike bag designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1596464716121-2e6bb66a5cda",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 54,
+    "rating": 4.1
+  },
+  {
+    "id": 48,
+    "name": "Nike Brasilia Duffel Bag",
+    "brand": "Nike",
+    "category": "Bag",
+    "price": 4294,
+    "description": "Nike Brasilia Duffel Bag — premium Nike bag designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1596464716121-2e6bb66a5cda",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 72,
+    "rating": 3.7
+  },
+  {
+    "id": 49,
+    "name": "Nike Brasilia Duffel Bag",
+    "brand": "Nike",
+    "category": "Bag",
+    "price": 2485,
+    "description": "Nike Brasilia Duffel Bag — premium Nike bag designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1596464716121-2e6bb66a5cda",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 54,
+    "rating": 4.3
+  },
+  {
+    "id": 50,
+    "name": "Nike Brasilia Duffel Bag",
+    "brand": "Nike",
+    "category": "Bag",
+    "price": 11763,
+    "description": "Nike Brasilia Duffel Bag — premium Nike bag designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1596464716121-2e6bb66a5cda",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 53,
+    "rating": 3.9
+  },
+  {
+    "id": 51,
+    "name": "Nike Brasilia Duffel Bag",
+    "brand": "Nike",
+    "category": "Bag",
+    "price": 11280,
+    "description": "Nike Brasilia Duffel Bag — premium Nike bag designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1596464716121-2e6bb66a5cda",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 81,
+    "rating": 4.6
+  },
+  {
+    "id": 52,
+    "name": "Nike Brasilia Duffel Bag",
+    "brand": "Nike",
+    "category": "Bag",
+    "price": 12485,
+    "description": "Nike Brasilia Duffel Bag — premium Nike bag designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1596464716121-2e6bb66a5cda",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 47,
+    "rating": 4.6
+  },
+  {
+    "id": 53,
+    "name": "Nike Brasilia Duffel Bag",
+    "brand": "Nike",
+    "category": "Bag",
+    "price": 12287,
+    "description": "Nike Brasilia Duffel Bag — premium Nike bag designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1596464716121-2e6bb66a5cda",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 18,
+    "rating": 4.2
+  },
+  {
+    "id": 54,
+    "name": "Nike Heritage Backpack",
+    "brand": "Nike",
+    "category": "Bag",
+    "price": 7721,
+    "description": "Nike Heritage Backpack — premium Nike bag designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1596464716121-2e6bb66a5cda",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 99,
+    "rating": 4.2
+  },
+  {
+    "id": 55,
+    "name": "Nike Windrunner Jacket",
+    "brand": "Nike",
+    "category": "Jacket",
+    "price": 9669,
+    "description": "Nike Windrunner Jacket — premium Nike jacket designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354841515-0e9f26c5d6cc",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 70,
+    "rating": 4.4
+  },
+  {
+    "id": 56,
+    "name": "Nike Therma-FIT Running Jacket",
+    "brand": "Nike",
+    "category": "Jacket",
+    "price": 8183,
+    "description": "Nike Therma-FIT Running Jacket — premium Nike jacket designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354841515-0e9f26c5d6cc",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 41,
+    "rating": 3.9
+  },
+  {
+    "id": 57,
+    "name": "Nike Down Fill Jacket",
+    "brand": "Nike",
+    "category": "Jacket",
+    "price": 11800,
+    "description": "Nike Down Fill Jacket — premium Nike jacket designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354841515-0e9f26c5d6cc",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 67,
+    "rating": 5.0
+  },
+  {
+    "id": 58,
+    "name": "Nike Down Fill Jacket",
+    "brand": "Nike",
+    "category": "Jacket",
+    "price": 7700,
+    "description": "Nike Down Fill Jacket — premium Nike jacket designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354841515-0e9f26c5d6cc",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 45,
+    "rating": 4.1
+  },
+  {
+    "id": 59,
+    "name": "Nike Windrunner Jacket",
+    "brand": "Nike",
+    "category": "Jacket",
+    "price": 7968,
+    "description": "Nike Windrunner Jacket — premium Nike jacket designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354841515-0e9f26c5d6cc",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 87,
+    "rating": 4.3
+  },
+  {
+    "id": 60,
+    "name": "Nike Down Fill Jacket",
+    "brand": "Nike",
+    "category": "Jacket",
+    "price": 5123,
+    "description": "Nike Down Fill Jacket — premium Nike jacket designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354841515-0e9f26c5d6cc",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 81,
+    "rating": 5.0
+  },
+  {
+    "id": 61,
+    "name": "Nike Windrunner Jacket",
+    "brand": "Nike",
+    "category": "Jacket",
+    "price": 8236,
+    "description": "Nike Windrunner Jacket — premium Nike jacket designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354841515-0e9f26c5d6cc",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 39,
+    "rating": 3.6
+  },
+  {
+    "id": 62,
+    "name": "Nike Down Fill Jacket",
+    "brand": "Nike",
+    "category": "Jacket",
+    "price": 8148,
+    "description": "Nike Down Fill Jacket — premium Nike jacket designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354841515-0e9f26c5d6cc",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 49,
+    "rating": 4.6
+  },
+  {
+    "id": 63,
+    "name": "Nike Windrunner Jacket",
+    "brand": "Nike",
+    "category": "Jacket",
+    "price": 10131,
+    "description": "Nike Windrunner Jacket — premium Nike jacket designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1618354841515-0e9f26c5d6cc",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 57,
+    "rating": 4.6
+  },
+  {
+    "id": 64,
+    "name": "Nike Sportswear Woven Shorts",
+    "brand": "Nike",
+    "category": "Shorts",
+    "price": 5594,
+    "description": "Nike Sportswear Woven Shorts — premium Nike shorts designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1581089781785-603411fa81e5",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 30,
+    "rating": 4.8
+  },
+  {
+    "id": 65,
+    "name": "Nike Challenger Running Shorts",
+    "brand": "Nike",
+    "category": "Shorts",
+    "price": 10948,
+    "description": "Nike Challenger Running Shorts — premium Nike shorts designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1581089781785-603411fa81e5",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 25,
+    "rating": 3.7
+  },
+  {
+    "id": 66,
+    "name": "Nike Dri-FIT Training Shorts",
+    "brand": "Nike",
+    "category": "Shorts",
+    "price": 8202,
+    "description": "Nike Dri-FIT Training Shorts — premium Nike shorts designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1581089781785-603411fa81e5",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 15,
+    "rating": 3.8
+  },
+  {
+    "id": 67,
+    "name": "Nike Sportswear Woven Shorts",
+    "brand": "Nike",
+    "category": "Shorts",
+    "price": 12957,
+    "description": "Nike Sportswear Woven Shorts — premium Nike shorts designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1581089781785-603411fa81e5",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 85,
+    "rating": 3.7
+  },
+  {
+    "id": 68,
+    "name": "Nike Challenger Running Shorts",
+    "brand": "Nike",
+    "category": "Shorts",
+    "price": 13103,
+    "description": "Nike Challenger Running Shorts — premium Nike shorts designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1581089781785-603411fa81e5",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 65,
+    "rating": 4.6
+  },
+  {
+    "id": 69,
+    "name": "Nike Sportswear Woven Shorts",
+    "brand": "Nike",
+    "category": "Shorts",
+    "price": 14505,
+    "description": "Nike Sportswear Woven Shorts — premium Nike shorts designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1581089781785-603411fa81e5",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 41,
+    "rating": 4.5
+  },
+  {
+    "id": 70,
+    "name": "Nike Sportswear Woven Shorts",
+    "brand": "Nike",
+    "category": "Shorts",
+    "price": 5073,
+    "description": "Nike Sportswear Woven Shorts — premium Nike shorts designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1581089781785-603411fa81e5",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 50,
+    "rating": 4.9
+  },
+  {
+    "id": 71,
+    "name": "Nike Sportswear Woven Shorts",
+    "brand": "Nike",
+    "category": "Shorts",
+    "price": 10627,
+    "description": "Nike Sportswear Woven Shorts — premium Nike shorts designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1581089781785-603411fa81e5",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 35,
+    "rating": 4.8
+  },
+  {
+    "id": 72,
+    "name": "Nike Sportswear Woven Shorts",
+    "brand": "Nike",
+    "category": "Shorts",
+    "price": 13908,
+    "description": "Nike Sportswear Woven Shorts — premium Nike shorts designed for comfort, performance, and style.",
+    "image": "https://images.unsplash.com/photo-1581089781785-603411fa81e5",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 79,
+    "rating": 5.0
+  }
+]
