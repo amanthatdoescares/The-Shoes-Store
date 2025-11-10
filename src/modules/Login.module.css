@@ -20,7 +20,7 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: #fafafa90;
+  background-color: #ffffff72;
 }
 
 .rightSection h1 {
@@ -49,11 +49,15 @@
   border-radius: 8px;
   font-size: 1rem;
   background-color: #fff;
+  height: 40px;
+  box-sizing: border-box;
 }
 
 .passwordContainer {
   position: relative;
   margin-bottom: 15px;
+  display: flex;
+  align-items: center;
 }
 
 .eyeIcon {
@@ -136,7 +140,21 @@
   border-radius: 8px;
   background-color: #fff;
   cursor: pointer;
-  font-size: 0.9rem;
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+
+.socialButton img {
+  width: 20px;
+  height: 20px;
+}
+
+.socialButton img[src*="/icons/facebook.png"] {
+  width: 30px;
+  height: 30px;
 }
 
 .footerText {
@@ -156,12 +174,24 @@
 }
 
 .loginBackground {
-  background-image: url("/images/red_gradient.png");
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;
+  position: relative;
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.loginBackground::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-image: url("/images/login_page_background1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  filter: blur(5px);
+  z-index: -1;
 }

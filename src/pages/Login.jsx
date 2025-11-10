@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 import styles from "../modules/Login.module.css";
 
 const Login = () => {
@@ -62,11 +63,21 @@ const Login = () => {
               <span>Quick Login</span>
             </div>
             <div className={styles.socialButtons}>
-              <button className={styles.socialButton}>Google</button>
-              <button className={styles.socialButton}>Facebook</button>
+              <button className={styles.socialButton}>
+                <img src="/icons/google.png" alt="Google" />
+                Login with Google
+              </button>
+              <button className={styles.socialButton}>
+                <img
+                  src="/icons/facebook.png"
+                  alt="Facebook"
+                  className="facebookicon"
+                />
+                Login with Facebook
+              </button>
             </div>
             <p className={styles.footerText}>
-              Don’t have an account? <a href="#">Register</a>
+              Don’t have an account? <Link to="/signup">Register</Link>
             </p>
           </form>
         </div>

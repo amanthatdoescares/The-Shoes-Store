@@ -1,4 +1,5 @@
 import { NavLink } from "react-router-dom";
+import { FaShoppingCart, FaUser } from "react-icons/fa";
 import logo from "../assets/Logo_NIKE.svg";
 
 function Nav() {
@@ -26,7 +27,12 @@ function Nav() {
           <NavLink to="/contact">Contact</NavLink>
         </li>
       </ul>
-      <button onClick={() => (window.location.href = "/login")}>Login</button>
+      <button onClick={() => (window.location.href = "/cart")}>
+        <FaShoppingCart size={20} />
+      </button>
+      <button onClick={() => (window.location.href = "/dashboard")}>
+        <FaUser size={20} />
+      </button>
     </nav>
   );
 }
