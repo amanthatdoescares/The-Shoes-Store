@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import Hero from "../components/Hero";
 import ProductCard from "../components/ProductCard";
 import styles from "../modules/Home.module.css";
